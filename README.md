@@ -1,5 +1,4 @@
 # PassWord-Generator-
 
 view 
-random-password-gen01.netlify.app
-
+https://random-password-gen01.netlify.app/
